@@ -1,2 +1,10 @@
-# ai-analytics-suite
-A basic analytics dashboard built with React and Tailwind
+# Simple Analytics Dashboard
+
+## Getting Started
+
+```bash
+npm install
+cp .env.example .env
+# fill in .env
+npm start
+```
